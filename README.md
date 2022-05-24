@@ -1,6 +1,2 @@
-JS+SCSS+HTML
-
-
-Libraries: Swiper.js
-
+# watches project
  https://albert777beltukov.github.io/Watches-website/
